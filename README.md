@@ -22,6 +22,7 @@ learning python basics
 ![image](https://github.com/user-attachments/assets/5a7dd93b-834a-4724-a51e-38a8c9b28fcd)
 ![image](https://github.com/user-attachments/assets/a00625ac-a1f3-4b42-970c-fca4027bd6f8)
 ![image](https://github.com/user-attachments/assets/a97f65cd-78c9-4f69-add6-5a5fb5552d79)
+![image](https://github.com/user-attachments/assets/d0b7f2cb-231d-431d-a837-d0f1662c0ffa)
 
 
 
