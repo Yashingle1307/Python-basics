@@ -8,8 +8,6 @@ learning python basics
    sum=num1+num2
    print(sum)
 3) comments bolck of code which is not execute
-
-
 4) Operators
   
 
@@ -20,6 +18,8 @@ learning python basics
 ![image](https://github.com/user-attachments/assets/ace99790-f29d-4e4f-bb43-4b26cf4433b8)
 ![image](https://github.com/user-attachments/assets/ad7d1353-0da5-4c43-a29f-cce317edb6a7)
 ![image](https://github.com/user-attachments/assets/5a7dd93b-834a-4724-a51e-38a8c9b28fcd)
+![image](https://github.com/user-attachments/assets/a00625ac-a1f3-4b42-970c-fca4027bd6f8)
+
 
 
 
